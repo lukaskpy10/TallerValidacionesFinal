@@ -1,0 +1,9 @@
+C:\Users\portatil\Desktop\SOFTWARE 2\taller_de_validaciones\taller_de_validaciones\bin\Debug\taller_de_validaciones.exe.config
+C:\Users\portatil\Desktop\SOFTWARE 2\taller_de_validaciones\taller_de_validaciones\bin\Debug\taller_de_validaciones.exe
+C:\Users\portatil\Desktop\SOFTWARE 2\taller_de_validaciones\taller_de_validaciones\bin\Debug\taller_de_validaciones.pdb
+C:\Users\portatil\Desktop\SOFTWARE 2\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.csprojResolveAssemblyReference.cache
+C:\Users\portatil\Desktop\SOFTWARE 2\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.Form1.resources
+C:\Users\portatil\Desktop\SOFTWARE 2\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.Properties.Resources.resources
+C:\Users\portatil\Desktop\SOFTWARE 2\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.csproj.GenerateResource.Cache
+C:\Users\portatil\Desktop\SOFTWARE 2\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.exe
+C:\Users\portatil\Desktop\SOFTWARE 2\taller_de_validaciones\taller_de_validaciones\obj\Debug\taller_de_validaciones.pdb
